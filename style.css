@@ -1,0 +1,16 @@
+body {
+    background: white;
+    color: black;
+    padding: 2em;
+}
+
+canvas {
+    background: black;
+    margin: auto;
+    text-align: center;
+}
+
+.center {
+    margin: auto;
+    text-align: center;
+}
